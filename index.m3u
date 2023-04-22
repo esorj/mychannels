@@ -45,3 +45,5 @@ http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/HGTV/playlist.m3
 #EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="NBC WBAL"  group-title="Locals",NBC WBAL Baltimore
 http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/12002/index.m3u8
 
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="Start TV"  group-title="Entertainment",Start TV
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/286920
