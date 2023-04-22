@@ -28,9 +28,6 @@ http://176.57.50.167:25461/536416/231244/71791
 http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
 
 #EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="StartTV"  group-title="Entertainment",StartTV
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/start.tv.us.m3u8
-
-#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="StartTV"  group-title="Entertainment",StartTV
 https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
 
 #EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="ION Plus"  group-title="Entertainment",ION Plus
