@@ -1,56 +1,54 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CBS Boston WBZ"  group-title="New Group",CBS Boston WBZ
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CBS Boston WBZ"  group-title="Locals",CBS Boston WBZ
 https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Comet TV (Geo)"  group-title="New Group",Comet TV (Geo)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Comet TV (Geo)"  group-title="Entertainment",Comet TV (Geo)
 https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ABC 7 NEW YORK"  group-title="New Group",ABC 7 NEW YORK
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ABC 7 NEW YORK"  group-title="Locals",ABC 7 NEW YORK
 https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CBSN New York"  group-title="New Group",CBSN New York
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CBSN New York"  group-title="Locals",CBSN New York
 https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CBS Los Angeles"  group-title="New Group",CBS Los Angeles
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CBS Los Angeles"  group-title="Locals",CBS Los Angeles
 https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Electric Now"  group-title="New Group",Electric Now
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Electric Now"  group-title="Entertainment",Electric Now
 https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="FOX Baltimore WBFF"  group-title="New Group",FOX Baltimore WBFF
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="FOX Baltimore WBFF"  group-title="Locals",FOX Baltimore WBFF
 http://176.57.50.167:25461/536416/231244/71333
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="FOX Baltimore WBF"  group-title="New Group",FOX Baltimore WBF
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="FOX Baltimore WBF"  group-title="Locals",FOX Baltimore WBF
 	http://176.57.50.167:25461/536416/231244/71791
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="InfoWars"  group-title="New Group",InfoWars
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="InfoWars"  group-title="Entertainment",InfoWars
 http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="StartTV"  group-title="New Group",StartTV
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="StartTV"  group-title="Entertainment",StartTV
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/start.tv.us.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="StartTV"  group-title="New Group",StartTV
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="StartTV"  group-title="Entertainment",StartTV
 https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ION Plus"  group-title="New Group",ION Plus
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ION Plus"  group-title="Entertainment",ION Plus
 https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ION Mystery"  group-title="New Group",ION Mystery
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ION Mystery"  group-title="Entertainment",ION Mystery
 https://mst3k-localnow.amagi.tv/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ION"  group-title="New Group",ION
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ION"  group-title="Entertainment",ION
 https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="FoxNews"  group-title="New Group",FoxNews
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="FoxNews"  group-title="News",FoxNews
 http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/foxnews_twn/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="LivelyPlace"  group-title="New Group",LivelyPlace
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="LivelyPlace"  group-title="Entertainment",LivelyPlace
 http://n1.klowdtv.net/live2/qvclive_720p/chunks.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="HGTV"  group-title="New Group",HGTV
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="HGTV"  group-title="Entertainment",HGTV
 http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/HGTV/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="HGTV"  group-title="New Group",HGTV
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hgtv.usa.eastern.us.m3u8
 
